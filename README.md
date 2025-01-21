@@ -128,6 +128,7 @@ react-native-auth-template/
 │   └── supabase.ts
 ├── assets/
 └── images/
+```
 
 
 ## 🔒 Authentication Flow
